@@ -3,5 +3,5 @@ This is the final project of the Practical Data Science class 15688. The Data Sc
 
 **The Team**
 - Mohamed Sriha (msriha)
-- Anal Jain ()
-- Himanshu Adlkha ()
+- Anal Jain (analj)
+- Himanshu Adlkha (himadlakha)
